@@ -28,3 +28,29 @@ internal-chat-win.exe
 .1024*
 !.1024
 .breakpoints
+
+# Node.js specific files and folders
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Log files
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Coverage directory
+coverage/
+
+# Environment variables
+.env
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
