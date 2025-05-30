@@ -3,7 +3,7 @@
 
 demo演示：https://neiwang.1024bugs.com
 
-## 优点
+## 优点xxxxxx
 无需安装任何软件，打开浏览器，无需登录直接传输。
 
 ## 缺点
